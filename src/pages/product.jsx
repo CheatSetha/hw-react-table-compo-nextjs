@@ -107,6 +107,7 @@ const product = ({ data }) => {
 				subHeaderComponent={subHeaderComponentMemo}
 				selectableRows
 				persistTableHead
+				
                
 			/>
 		</>
